@@ -1,8 +1,5 @@
 import React, { memo } from "react";
 import Image from "next/image";
-import { Fade, Slide } from "react-awesome-reveal";
-import Project from "./Project";
-import Head from "next/head";
 
 const Header = () => {
 

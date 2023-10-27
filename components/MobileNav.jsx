@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import { NavLink } from "./NavLink";
-import Link from "next/link";
 
 export const MobileNav = ({ handleNav }) => {
   return (
