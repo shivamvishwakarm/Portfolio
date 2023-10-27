@@ -12,6 +12,7 @@ export const MobileNav = ({ handleNav }) => {
         width={50}
         height={50}
         onClick={handleNav}
+        alt="menu"
       />
       <aside className="flex flex-col bg-[#5376CE] items-center h-screen relative w-full">
         <div className="my-4">

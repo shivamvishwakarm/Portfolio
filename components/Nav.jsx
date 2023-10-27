@@ -20,6 +20,7 @@ export const Nav = () => {
         src={"/menu.svg"}
         width={50}
         height={50}
+        alt=""
         onClick={handleNav}
       />
       <aside className=" hidden lg:flex flex-col bg-[#5376CE] items-center h-screen relative w-full">
